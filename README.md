@@ -4,7 +4,7 @@
 **Fecha de elaboración:** 6 de noviembre de 2026  
 **Estado:** reconstrucción a partir de registros y salidas compartidas; no sustituye una copia de las configuraciones actuales.
 
-## 1. Resumen ejecutivo
+## 1. Resumen
 
 El proyecto buscó mantener la comunicación entre la sede de Manizales y la estación Cielo Roto usando la **red de radios como medio principal** y una **VPN sobre Starlink como respaldo**. Los EdgeRouter seleccionan el camino y los MikroTik proporcionan la conectividad a Internet y el túnel OpenVPN hacia CloudConnexa.
 
